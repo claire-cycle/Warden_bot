@@ -4,6 +4,14 @@
 
 Warden Bot 是一个自动化工具，用于 Warden Protocol 平台的账户注册、登录和日常任务执行。该工具使用以太坊钱包进行身份验证，并通过代理服务器执行各种操作，包括账户注册、设置代币名称和完成日常任务。
 
+## 代理供应商注册链接
+
+- NSTProxy: https://app.nstproxy.com/register?i=3tOiyf
+
+## 图像识别服务
+
+- yescaptcha：https://yescaptcha.com/i/lwZgQd
+
 ## 功能特点
 
 - 自动化账户注册流程
