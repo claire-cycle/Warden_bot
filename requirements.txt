@@ -1,0 +1,9 @@
+pytz>=2021.1
+requests>=2.25.1
+eth-account>=0.5.7
+colorama>=0.4.4
+cryptography>=3.4.7
+web3>=5.23.0
+uuid>=1.30
+python-dotenv>=0.19.0
+urllib3>=1.26.6
