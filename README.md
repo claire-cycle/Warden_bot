@@ -34,7 +34,7 @@ Warden Bot 是一个自动化工具，用于 Warden Protocol 平台的账户注�
 1. 克隆仓库到本地：
 
 ```bash
-git clone https://github.com/yourusername/Warden_bot.git
+git clone https://github.com/claire-cycle/Warden_bot.git
 cd Warden_bot
 ```
 
